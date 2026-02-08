@@ -1,20 +1,21 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+I’m excited to share Task 2 of my internship at Skillcraft Technologies, where I developed an interactive stopwatch web application with a strong focus on functionality, user experience, and clean frontend implementation.
 
-# Run and deploy your AI Studio app
+✨ Key Features Implemented:
+• Start, pause, and reset stopwatch functionality
+• Real-time time tracking with smooth updates
+• User-friendly and responsive interface
+• Clean and minimal UI for better usability
+• Interactive controls designed for seamless user experience
 
-This contains everything you need to run your app locally.
+🛠️ Tech Stack Used:
+• HTML5 – structure and layout
+• CSS3 – styling and responsive design
+• JavaScript – stopwatch logic, event handling, and time calculations
 
-View your app in AI Studio: https://ai.studio/apps/drive/151s4hWOfAcDz4egaFdsYyCg5ABqCNrNs
+This task helped me strengthen my understanding of JavaScript timing functions, DOM manipulation, and frontend best practices, while reinforcing the importance of building efficient and user-centric web applications.
 
-## Run Locally
-
-**Prerequisites:**  Node.js
+Looking forward to applying these skills in upcoming tasks and projects! 🚀
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+https://github.com/user-attachments/assets/d9948601-9c5f-46c3-8b66-ce19519916a6
+
